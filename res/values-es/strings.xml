@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartGamer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Bienvenido a SmartLeague 3.0: </string>
+    <string name="nick">Introduce tu nick</string>
+    <string name="access">Acceso a juego</string>
+    <string name="go">Vamos!</string>
+    <string name="language">Elije idioma</string>
+    <string name="facebook_app_id">907211956044507</string>
+     
+
+</resources>
